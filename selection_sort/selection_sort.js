@@ -22,5 +22,6 @@ const selectionSort = (arr) => {
 	}
 	return newArr;
 }
+// Test
 let a = [5, 3, 4, 2, 10, 190, -10, -39];
 console.log(selectionSort(a));
